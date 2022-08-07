@@ -14,5 +14,5 @@ Date File:
 2 - BlogMe_sources.xlsx
 
 Tableau Dashboard:
-https://public.tableau.com/shared/3TPWMBC3S?:display_count=n&:origin=viz_share_link
+https://public.tableau.com/views/BlogMeArticleSentimentAnalysis_16599101449550/SentimentAnalysis?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 
